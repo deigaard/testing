@@ -2,4 +2,6 @@
 
 This is some editing text.
 
-Some more edits
+Some more edits.
+
+Edits to virtual branch.
